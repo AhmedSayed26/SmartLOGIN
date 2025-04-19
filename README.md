@@ -38,6 +38,6 @@ LocalStorage for data persistence
 
 
 ## 🚀 Getting Started With demo :
-      https://ahmedsayed26.github.io/SmartLogin/
+      https://ahmedsayed26.github.io/SmartLOGIN/
 
    
